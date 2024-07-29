@@ -1,3 +1,5 @@
 echo "Change from branch2" >> file.txt
 git add file.txt
+
 git commit -m "Update file.txt in master"
+git commit -m "Update file.txt in branch3"
